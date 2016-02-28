@@ -1,0 +1,32 @@
+_repo: Memoir-and-Letters-of-Francis-W-Newman_7305
+contributor:
+  contributor:
+    agent_name: Newman, Francis William
+    alias: Newman, F. W. (Francis William)
+    birthdate: 1805
+    deathdate: 1897
+    gutenberg_agent_id: '4201'
+    url: http://www.gutenberg.org/2009/agents/4201
+    wikipedia: http://en.wikipedia.org/wiki/Francis_William_Newman
+creator:
+  author:
+    agent_name: Sieveking, I. Giberne (Isabel Giberne)
+    aliases:
+    - Sieveking, Isabel Giberne
+    - Giberne Sieveking, I. (Isabel)
+    gutenberg_agent_id: '2417'
+    url: http://www.gutenberg.org/2009/agents/2417
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Newman, Francis William, 1805-1897'
+title: Memoir and Letters of Francis W. Newman
+url: http://www.gutenberg.org/ebooks/7305
